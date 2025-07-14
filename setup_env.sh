@@ -26,7 +26,7 @@ pip install --upgrade pip
 
 # Install dependencies from requirements.txt
 echo "Installing dependencies from requirements.txt..."
-pip install -r requirements.txtß
+pip install -r requirements.txt
 
 ## Save dependencies
 #echo "Saving requirements.txt..."
